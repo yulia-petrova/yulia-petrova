@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yulia-petrova, from Saint-Petersburg State University (Russia) and Instituto de Matematica Pura e Aplicada (Rio, Brazil)
+- 👋 Hi, I’m @yulia-petrova, an Assistant Professor at PUC-Rio, Rio de Janeiro, Brasil
 - 👀 I’m interested in PDEs and their applications to: probability theory, fluid dynamics and real-world problems
 
 <!---
